@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### To intsall all the required dependecies
 
 ```
@@ -29,3 +30,6 @@ npm run build
 ```
 
 Builds the app for production to the `build` folder.<br>
+=======
+# EcommerceApp
+>>>>>>> c17997e525b2270e5eb424402913413417ea9711
